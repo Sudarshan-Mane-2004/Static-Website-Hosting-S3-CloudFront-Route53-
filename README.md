@@ -32,16 +32,11 @@ index.html | styles.css | script.js
 
 You can place your architecture screenshot here.
 
-```
-images/architecture.png
-```
+<img width="1536" height="1024" alt="archietecture" src="https://github.com/user-attachments/assets/d83a21ef-bad7-4247-86f4-39f122c6be72" />
 
-Example:
-
-```markdown
-![Architecture](images/architecture.png)
 ```
 
+```
 ---
 
 ## ⚙ AWS Services Used
@@ -268,6 +263,24 @@ bucket-name.s3-website-region.amazonaws.com
 ```
 
 ---
+
+## 📚 What I Learned
+
+Through this project, I gained hands-on experience with several core AWS services and cloud concepts.
+
+- Learned how to host a **static website using Amazon S3**.
+- Understood how **Static Website Hosting** works in S3.
+- Learned how to configure **S3 bucket policies** to allow public access to static files.
+- Gained experience with **Amazon CloudFront CDN** for global content delivery.
+- Understood the role of **CloudFront edge locations** in improving website performance.
+- Learned how to configure **Default Root Object (index.html)** in CloudFront.
+- Gained knowledge about **DNS management using Amazon Route53**.
+- Learned how to connect a **custom domain to a CloudFront distribution**.
+- Understood the concept of **origin and caching in CloudFront**.
+- Learned how to troubleshoot common deployment issues such as **AccessDenied and 403 errors**.
+- Practiced organizing a project repository with proper **folder structure and documentation**.
+
+This project helped me understand how modern cloud infrastructure can be used to deploy **scalable, globally accessible static websites** using AWS.
 
 ## 📈 Future Improvements
 
